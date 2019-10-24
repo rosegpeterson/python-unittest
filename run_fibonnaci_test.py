@@ -27,7 +27,7 @@ AssertionError: [0, 1, 1, 2, 3, 5] != '[0, 1, 1, 2, 3, 5]'
 Ran 1 test in 0.001s
 
 FAILED (failures=1)
-(base) salsa @ tango ~/myrepo/python
+(base) user1 @ tango ~/myrepo/python
 └─ $ ▶ python run_fibonnaci_test.py
 fib =  [0, 1, 1, 2, 3, 5]
 .

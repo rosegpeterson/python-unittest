@@ -18,7 +18,7 @@ Traceback (most recent call last):
 AssertionError
 
 testing good ->
-(base) salsa @ tango ~/myrepo/python
+(base) user1 @ tango ~/myrepo/python
 └─ $ ▶ python run_fibonnaci_test_0.py
 fib =  [0, 1, 1, 2, 3, 5]
 """
